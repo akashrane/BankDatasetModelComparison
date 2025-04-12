@@ -1,5 +1,4 @@
 # BankDatasetModelComparison
- """
 # Classification Model Comparison and Tuning
 
 Hello everyone, my name is **Akash Rane**, and this is  Classification Modeling**.
@@ -70,5 +69,5 @@ I recommend using **XGBoost** as it consistently performed the best across all e
 
 ---
 
-Thank you!
-"""
+# Thank you!
+
